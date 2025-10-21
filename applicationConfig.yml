@@ -1,6 +1,6 @@
 build:
-  id: CS-DEFAULT-123456
-  version: 1.0.0
-  name: "CONFIG-SERVER aplication"
-  description: "DEFAULT: My spring boot app"
-  type: "DDFAULT: Build"
+  id: "001"
+  name: "Spring Config Client"
+  version: "1.0.0"
+  description: "Testing Spring Cloud Config"
+  type: "demo"
