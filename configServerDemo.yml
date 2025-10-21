@@ -1,5 +1,5 @@
 build:
-  id: CS-123456
+  id: CS-DEFAULT-123456
   version: 1.0.0
   name: "CONFIG-SERVER aplication"
   description: "DEFAULT: My spring boot app"
