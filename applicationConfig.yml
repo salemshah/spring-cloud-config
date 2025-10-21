@@ -2,5 +2,5 @@ build:
   id: "001"
   name: "Spring Config Client"
   version: "1.0.0"
-  description: "Testing Spring Cloud Config"
+  description: "Default Spring Cloud Config"
   type: "demo"
