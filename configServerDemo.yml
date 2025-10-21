@@ -1,6 +1,6 @@
 build:
   id: CS-123456
   version: 1.0.0
-  name: "Build aplication"
-  description: "My spring boot app"
-  type: "Development Build"
+  name: "CONFIG-SERVER aplication"
+  description: "DEFAULT: My spring boot app"
+  type: "DDFAULT: Build"
